@@ -19,6 +19,7 @@ setuptools.setup(
         'ldmud_efun': [
               'spell_check   = ldmudefunspell.spell:efun_spell_check',
               'spell_suggest = ldmudefunspell.spell:efun_spell_suggest',
+              'spell_reload  = ldmudefunspell.spell:efun_spell_reload',
         ]
     },
     zip_safe=False,
