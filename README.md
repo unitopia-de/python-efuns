@@ -4,6 +4,7 @@ These are Python efuns used in UNItopia.
 
 In the subdirectories there are the following packages:
  * `git` contains efuns for interaction with git
+ * `deklin` contains an efun and type for multi-recipient messages
  * `jwt` contains an efun for creating JSON web tokens
  * `spell` contains efuns for spell checking
  * `unicode_action` contains an `add_action()` replacement that will register
